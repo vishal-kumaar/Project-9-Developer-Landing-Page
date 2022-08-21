@@ -16,9 +16,9 @@ This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript
 
 <br>
 
-![Screenshot](./screenshots/1.png "Template Screenshot")
-![Screenshot](./screenshots/2.png "Template Screenshot")
-![Screenshot](./screenshots/3.png "Template Screenshot")
+![Screenshot](./asset/screenshots/1.png "Template Screenshot")
+![Screenshot](./asset/screenshots/2.png "Template Screenshot")
+![Screenshot](./asset/screenshots/3.png "Template Screenshot")
 
 
 ## 📌 What I Learn
@@ -30,7 +30,7 @@ This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript
     👉 Box shadow in CSS.
     👉 Designing Navbar, Cards, and footer.
 
-## I took 5 hours to complete this project and I really enjoyed it 😊.
+## I took 6 hours to complete this project and I really enjoyed it 😊.
 
 ## 💬 Connect With Me
 
