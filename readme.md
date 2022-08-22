@@ -30,7 +30,7 @@ This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript
     👉 Box shadow in CSS.
     👉 Designing Navbar, Cards, and footer.
 
-## I took 6 hours to complete this project and I really enjoyed it 😊.
+## I took 7 hours to complete this project and I really enjoyed it 😊.
 
 ## 💬 Connect With Me
 
