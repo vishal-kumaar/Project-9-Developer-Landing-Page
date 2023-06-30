@@ -1,6 +1,5 @@
 ## 🔗Project Link
-https://html5-css3-project-09.netlify.app/
-
+https://developer-landing-site.vercel.app/
 
 ## ✨ Project-9: Developer Landing Page ✨
 
