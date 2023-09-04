@@ -1,5 +1,5 @@
 ## 🔗Project Link
-https://developer-landing-site.vercel.app/
+https://vishal-kumaar.github.io/Project-9-Developer-Landing-Page/
 
 ## ✨ Project-9: Developer Landing Page ✨
 
